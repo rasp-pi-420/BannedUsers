@@ -1,3 +1,0 @@
-BannedUsers = {
-"Userid|Reason";
-}
