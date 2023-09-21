@@ -1,4 +1,4 @@
-{
+return {
   "TheRizzl3r|Abusing commands",
   "rat_bastord|why not"
 }
